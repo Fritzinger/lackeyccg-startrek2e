@@ -1,4 +1,5 @@
 #summary Installation guide for startrek1e Lackey plugin
+#labels Featured,Phase-Deploy
 
 =Install guide=
 
