@@ -1,4 +1,4 @@
-startrek2e	02-21-11
+startrek2e	-1
 plugins/startrek2e/plugininfo.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/plugininfo.txt	138665
 plugins/startrek2e/setlist.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/setlist.txt	28739
 plugins/startrek2e/packs/packdefinitions1.xml	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/packs/packdefinitions1.xml	516982
@@ -29,7 +29,7 @@ plugins/startrek2e/packs/16-FTB.jpg	http://lackeyccg-startrek2e.googlecode.com/s
 plugins/startrek2e/packs/17-RTS.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/packs/17-RTS.jpg	922
 plugins/startrek2e/packs/18-TSOP.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/packs/18-TSOP.jpg	-8278
 plugins/startrek2e/sets/standard.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/standard.txt	39020769
-plugins/startrek2e/sets/virtual.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/virtual.txt	13639706
+plugins/startrek2e/sets/virtual.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/virtual.txt	13642503
 plugins/startrek2e/sets/setimages/general/cardback.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/cardback.jpg	179863
 plugins/startrek2e/sets/setimages/general/CardMissing.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/CardMissing.jpg	177461
 plugins/startrek2e/sets/setimages/general/Spawned.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/Spawned.jpg	163676
