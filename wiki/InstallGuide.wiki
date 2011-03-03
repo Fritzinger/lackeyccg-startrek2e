@@ -9,6 +9,8 @@ The plugin is available through the automatic update feature in Lackey, you only
 
 Since Lackey adds some extra time, especially when downloading the entire plugin (and chosing to download all pictures), there is an option to download the plugin as a bundle, as before, and install it manually. The bundle includes the updatescript, so after this initial "manual" installation, it is possible to use the Auto Update feature, to check for new versions of the plugin, and if necessary, dowload the new files and/or card images.
 
+http://lackeyccg-startrek2e.googlecode.com/svn/images/2Einstall.jpg
+
 ==Here is the address you need:==
 
 Update from URL: 
