@@ -1,4 +1,5 @@
 #summary A short introduction into using the startrek2e plugin
+#labels Featured,Phase-Deploy
 
 
 =Using Lackey with the startrek2e plugin=
