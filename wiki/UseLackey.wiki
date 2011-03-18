@@ -52,7 +52,7 @@ The easiest way to draw your initial hand is to type `/draw7` (or simply `/d7`) 
 
 Under no circumstances forget to either advance your phases and your turns AND/OR to save (`Game` menu or `/save`) *(12)*. Lackey has sometimes the habit to loose the connection and all cardplays since the last save will be lost. When advancing your phase/turn you'll automatically save the game in an AutoSave file.
 
-After a few turn quite a lot of cards will be on the virtual table *(13)*. To keep everything neatly arranged you can use the tabs on the right hand. The Crew 1- Crew 4 tabs should be empty as soon as the game starts. When staffing a ship move the personnel and equipment to an empty tab *(14)* and attach a note to the ship (right click menu on the ship).
+After a few turn quite a lot of cards will be on the virtual table *(13)*. To keep everything neatly arranged you can use the tabs on the right hand. The Crew 1- Crew 4 tabs should be empty as soon as the game starts. When staffing a ship move the personnel and equipment to an empty tab *(14)* and attach a note to the ship (right click menu on the ship). I have here "tap'd" the cards to rotate them 90° out of preference. For simplicity you could leave them untap'd there are always multiple ways to use this plugin.
 
 http://lackeyccg-startrek2e.googlecode.com/svn/images/2Egameplay01.jpg
 
@@ -63,9 +63,9 @@ Thus your opponent can easily make random selections (hidden) or view/select a c
 
 http://lackeyccg-startrek2e.googlecode.com/svn/images/2Egameplay02.jpg
 
-Handling Dilemmas is different in Lackey than in real play; use the button `Draw Dilemmas` *(17)* to draw an appropriate number to your `Hand_Dil` *(18)*. Switch to the tab `Hand_Dil`, select the dilemmas you want to use and move them to `Used_Dil`. The rest of the dilemmas can then be sent to the bottom of your dilemma pile (btw, if you flip the first dilemm you'll have a reference points when to shuffle your dilemma pile...).
+HHandling Dilemmas is different in Lackey than in real play; use the button `Draw Dilemmas` *(17)* to draw an appropriate number to your `Hand Dil` *(18)*. Switch to the tab `Hand_Dil`, select the dilemmas you want to use flip them and play them to the table. . The rest of the dilemmas can then be sent to the bottom of your dilemma pile with the button `Bottom of Dilemmas`. These dilemmas are stored then in the Tab `Bottom Dil.`. So when you run out of dilemmas to draw, you simply move all your dilemmas from the `Bottom Dil.` tab to the `Dilemmas` tab shuffle them and you are done. 
 
-Now your opponent can encounter the selected dilemmas. When a dilemma is overcome you can use the button `Dilemmas done +1` *(17)* to set a marker at the mission (select the appropriate mission first).
+Now your opponent can encounter the selected dilemmas. When a dilemma is overcome you can use the button `Dilemmas done +1` *(17)* to set a marker at the mission (select the appropriate mission first). You can move the overcome dilemma under the mission so you can access them later.
 
 Lackey offers no possibility to download a card; like in real games you have to look through your Deck to find the card. Don't forget to shuffle afterwards..
 
