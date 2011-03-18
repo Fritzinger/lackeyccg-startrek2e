@@ -1,0 +1,62 @@
+1	Hikaru Sulu Experienced Helmsman
+1	James T. Kirk Experienced Commander
+1	Leonard H. McCoy Experienced Advisor
+1	Montgomery Scott Experienced Engineer
+1	Number One Reputable Officer
+1	Valeris Co-Conspirator
+1	Spock Experienced Officer
+1	Watley Recent Transfer
+1	Willard Decker Recommended Replacement
+1	Laurence T. Stone Portmaster
+1	Helen Noel Enterprise Psychiatrist
+1	Arandis Risan Facilitator
+1	Karl Jaeger
+1	Karl Jaeger
+1	Evans
+1	Evans
+1	Nagata
+1	Nagata
+1	Nagata
+1	Tristan Adams Deranged Psychiatrist
+1	Josephs
+1	Mark Piper
+1	Mark Piper
+1	Thon
+1	Thon
+1	Rabal
+1	U.S.S. Enterprise Where She Belongs
+1	U.S.S. Enterprise Where She Belongs
+1	Orion Interceptor
+1	Orion Interceptor
+1	Unexpected Difficulties
+1	Delirium
+1	Machinations
+1	Old Feelings
+1	Uninvited
+Dilemmas:
+1	Breaking the Ice
+1	Curt Reprimand
+1	Causal Recursion
+1	Dark Page
+1	Repressed Message
+1	Instigate Dissension
+1	Chula: Unfortunate Roll
+1	Polywater Intoxication
+1	Predictable Response
+1	In-Fighting
+1	He Wasn't Nice
+1	Pillage and Plunder
+1	Miner Revolt
+1	We'll Never Know
+1	The First Duty
+1	What Lies Beneath
+1	Outclassed
+1	Guess Who's Coming to Dinner?
+1	Agonizing Encounter
+1	The Caretaker's "Guests"
+Missions:
+1	Earth Lush and Beautiful Home
+1	Evade Borg Vessel
+1	Avert Danger
+1	Explore Black Cluster
+1	Runabout Search
