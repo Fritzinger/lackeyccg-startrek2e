@@ -1,5 +1,5 @@
-startrek2e	03-18-11
-plugins/startrek2e/plugininfo.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/plugininfo.txt	143529
+startrek2e	04-16-11
+plugins/startrek2e/plugininfo.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/plugininfo.txt	143528
 plugins/startrek2e/setlist.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/setlist.txt	28739
 plugins/startrek2e/packs/packdefinitions1.xml	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/packs/packdefinitions1.xml	516982
 plugins/startrek2e/packs/packdefinitions2.xml	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/packs/packdefinitions2.xml	3262191

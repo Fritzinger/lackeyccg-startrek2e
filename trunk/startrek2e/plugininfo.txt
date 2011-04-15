@@ -13,7 +13,7 @@ ZONE1:"Deck"	0	0
 ZONE2:"Discard"	1	0
 ZONE3:"Removed"	1	0
 ZONE4:"Hand Dil."	1	0
-ZONE5:"Bottom Dil."	1	1
+ZONE5:"Bottom Dil."	1	0
 ZONE6:"Crew 1"	1	0
 ZONE7:"Crew 2"	1	0
 ZONE8:"Crew 3"	1	0
