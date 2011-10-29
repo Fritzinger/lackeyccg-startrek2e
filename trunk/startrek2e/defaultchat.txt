@@ -1,0 +1,16 @@
+Pass.
+Proceed.
+Draw to end my turn.
+Your turn.
+Downloading...
+Reporting...
+Beaming...
+Attempting Mission...
+Hold on... Thinking...
+BRB wait please!
+Good Game!
+/save
+/load
+/draw7
+/clear
+/fix
