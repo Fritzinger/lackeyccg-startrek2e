@@ -1,0 +1,5 @@
+<uninstall>
+<dateYYMMDD>111031</dateYYMMDD>
+<removepath>sets/setimages/general/ST2E-EN0AP016.jpg</removepath>
+<removepath>setlist.txt</removepath>
+</uninstall>
