@@ -1,0 +1,62 @@
+1	Tabor Apoplectic Bajoran
+1	Sakonna Puzzled Interrogator
+1	Cal Hudson Convincing Recruiter
+1	Cal Hudson Convincing Recruiter
+1	Marquay
+1	Marquay
+1	Niles
+1	Niles
+1	M'vil
+1	Harana
+1	Harana
+1	Narik
+1	Sark
+1	Sark
+1	Morik
+1	Reide
+1	Reide
+1	Reide
+1	E'Tyshra
+1	E'Tyshra
+1	Jakin
+1	Berild
+1	Berild
+1	Regana Tosh
+1	Regana Tosh
+1	Javert Maquis Flagship
+1	Javert Maquis Flagship
+1	Maquis Raider
+1	Maquis Raider
+1	Unexpected Difficulties
+1	Machinations
+1	Old Feelings
+1	Escape
+1	Cascade Virus
+1	Alarming Rumors
+Dilemmas:
+1	Breaking the Ice
+1	Curt Reprimand
+1	Causal Recursion
+1	Dark Page
+1	Parallel Romance
+1	Predictable Response
+1	In-Fighting
+1	He Wasn't Nice
+1	Pillage and Plunder
+1	Miner Revolt
+1	We'll Never Know
+1	One to One
+1	The First Duty
+1	What Lies Beneath
+1	The Beast at El-Adrel
+1	Guess Who's Coming to Dinner?
+1	Agonizing Encounter
+1	Personal Duty
+1	The Caretaker's "Guests"
+1	The Clown: Bitter Medicine
+Missions:
+1	Athos IV Maquis Base
+1	Amnesty Talks
+1	Geological Survey
+1	Mining Survey
+1	Search and Rescue
