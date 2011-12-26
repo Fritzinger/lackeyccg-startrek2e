@@ -2,7 +2,7 @@ startrek2e	12-25-11
 plugins/startrek2e/plugininfo.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/plugininfo.txt	566328
 plugins/startrek2e/formats.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/formats.txt	21435
 plugins/startrek2e/version.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/version.txt	31559
-plugins/startrek2e/uninstall.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/uninstall.txt	89467
+plugins/startrek2e/uninstall.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/uninstall.txt	90078
 plugins/startrek2e/defaultchat.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/defaultchat.txt	15540
 plugins/startrek2e/packs/packdefinitions1.xml	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/packs/packdefinitions1.xml	516982
 plugins/startrek2e/packs/packdefinitions2.xml	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/packs/packdefinitions2.xml	3262191
@@ -32,7 +32,7 @@ plugins/startrek2e/packs/16-FTB.jpg	http://lackeyccg-startrek2e.googlecode.com/s
 plugins/startrek2e/packs/17-RTS.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/packs/17-RTS.jpg	922
 plugins/startrek2e/packs/18-TSOP.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/packs/18-TSOP.jpg	-8278
 plugins/startrek2e/sets/standard.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/standard.txt	39450339
-plugins/startrek2e/sets/virtual.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/virtual.txt	12995577
+plugins/startrek2e/sets/virtual.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/virtual.txt	14369290
 plugins/startrek2e/decks/Bajoran_V-starter1-2_3.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/decks/Bajoran_V-starter1-2_3.txt	90152
 plugins/startrek2e/decks/Borg_V-starter1_3.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/decks/Borg_V-starter1_3.txt	98105
 plugins/startrek2e/decks/Cardassian_V-starter1_3.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/decks/Cardassian_V-starter1_3.txt	82760
