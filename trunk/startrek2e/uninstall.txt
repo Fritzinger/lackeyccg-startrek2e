@@ -1,7 +1,5 @@
 <uninstall>
 <dateYYMMDD>111225</dateYYMMDD>
-<removepath>sets/setimages/general/ST2E-EN0AP016.jpg</removepath>
-<removepath>setlist.txt</removepath>
 <removepath>sets/setimages/general/ST2E-EN07090.jpg</removepath>
 <removepath>sets/setimages/general/ST2E-EN07083.jpg</removepath>
 <removepath>sets/setimages/general/ST2E-EN07074.jpg</removepath>
@@ -15,4 +13,5 @@
 <removepath>sets/setimages/general/ST2E-EN01314.jpg</removepath>
 <removepath>sets/setimages/general/ST2E-EN01231.jpg</removepath>
 <removepath>sets/setimages/general/ST2E-EN01208.jpg</removepath>
+<removepath>sets/setimages/general/ST2E-EN07061.jpg</removepath>
 </uninstall>
