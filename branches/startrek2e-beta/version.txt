@@ -1,0 +1,6 @@
+<version>
+<lastupdateYYMMDD>111225</lastupdateYYMMDD>
+<versionurl>http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/version.txt</versionurl>
+<updateurl>http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/updatelist.txt</updateurl>
+<message>Last beta including Unity - stable release soon.</message>
+</version>
