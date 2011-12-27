@@ -1,6 +1,0 @@
-<version>
-<lastupdateYYMMDD>111225</lastupdateYYMMDD>
-<versionurl>http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/version.txt</versionurl>
-<updateurl>http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/updatelist.txt</updateurl>
-<message>1.0 Version including all Unity cards.</message>
-</version>
