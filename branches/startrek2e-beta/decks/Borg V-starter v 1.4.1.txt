@@ -1,4 +1,5 @@
 1	Seven of Nine Prodigal Daughter
+1	Two of Two Adaptation Drone
 1	Scrutiny Drone
 1	Scrutiny Drone
 1	Examination Drone
@@ -7,6 +8,8 @@
 1	Facilitation Drone
 1	Reconnaissance Drone
 1	Reconnaissance Drone
+1	Acclimation Drone
+1	Acclimation Drone
 1	Cartography Drone
 1	Cartography Drone
 1	Computation Drone
@@ -27,33 +30,30 @@
 1	Borg Cube
 1	Borg Sphere
 1	Borg Sphere
-1	Old Feelings
-1	Escape
-1	Analyze
-1	Analyze
 1	Unexpected Difficulties
-1	Indebtedness
+1	Escape
+1	Uninvited
 Dilemmas:
-1	Curt Reprimand
-1	Causal Recursion
-1	Lending a Hand
+1	Breaking the Ice
 1	Dark Page
-1	In Development
-1	Instigate Dissension
-1	Chula: Unfortunate Roll
+1	Dark Page
+1	Forced Into Labor
+1	Gravitational Anomaly
+1	Healing Hand
 1	Mark of Gideon
-1	Predictable Response
-1	In-Fighting
-1	He Wasn't Nice
+1	Honorable Pursuit
+1	Family
 1	Pillage and Plunder
+1	Setting the Stage
 1	Miner Revolt
-1	One to One
+1	Just Following Orders
+1	We'll Never Know
+1	Occupational Hazards
 1	The First Duty
-1	Outclassed
-1	Guess Who's Coming to Dinner?
+1	What Lies Beneath
 1	Personal Duty
-1	The Caretaker's "Guests"
 1	The Clown: Bitter Medicine
+1	Timescape
 Missions:
 1	Assault on Species 8472
 1	Battle Reconnaissance
