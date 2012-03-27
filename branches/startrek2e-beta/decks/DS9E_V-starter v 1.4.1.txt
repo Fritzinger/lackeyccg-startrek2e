@@ -1,0 +1,62 @@
+1	Alynna Nechayev Adamant Admiral
+1	Jaresh-Inyo Federation President
+1	Luther Sloan Man of Action
+1	William Ross "Temporary" Ally
+1	E.M.H. Program
+1	E.M.H. Program
+1	Delvok
+1	Delvok
+1	Delvok
+1	Flink
+1	Flink
+1	Altman
+1	Altman
+1	Bandee
+1	Bandee
+1	Hoya
+1	Mills
+1	Mills
+1	Paulson
+1	Paulson
+1	T'Lara
+1	T'Lara
+1	Van Orton
+1	Van Orton
+1	Sunad
+1	Sunad
+1	Togaran
+1	Togaran
+1	U.S.S. Centaur Patrolling Ship
+1	U.S.S. Bellerophon Conference Host
+1	U.S.S. Excelsior
+1	U.S.S. Excelsior
+1	Emergency Transport Unit
+1	Unexpected Difficulties
+1	Uninvited
+Dilemmas:
+1	Breaking the Ice
+1	Chula: The Precipice
+1	Dark Page
+1	Dark Page
+1	Forced Into Labor
+1	Gravitational Anomaly
+1	Echo Papa Attack
+1	Healing Hand
+1	Mark of Gideon
+1	Honorable Pursuit
+1	Family
+1	Pillage and Plunder
+1	Infinite Diversity
+1	Setting the Stage
+1	Just Following Orders
+1	The First Duty
+1	One Step Ahead
+1	The Launching
+1	The Launching
+1	Timescape
+Missions:
+1	Advanced Combat Training
+1	Earth Home of Starfleet Command
+1	Intercept Maquis
+1	Intercept Renegade
+1	Surgery Under Fire
