@@ -9,8 +9,10 @@ Attempting Mission...
 Hold on... Thinking...
 BRB wait please!
 Good Game!
-/save
-/load
-/draw7
-/clear
-/fix
+!Save Game!/save
+!Load Game!/load
+!Draw 7!/draw7
+!Save Log!/log
+!Clear Log!/clear
+!Draft to Next!/exchangeclockwise
+!Edit Deck!/copyzonetocardpool
