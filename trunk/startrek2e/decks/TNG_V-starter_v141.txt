@@ -1,14 +1,16 @@
 1	Worf Chief of Security
 1	Alynna Nechayev Adamant Admiral
 1	Jenna D'Sora Veteran Security Officer
-1	Hikaru Sulu Loyal Captain
+1	Jean-Luc Picard Genial Captain
+1	Arandis Risan Facilitator
 1	Ro Laren Headstrong Ensign
+1	Croden Dissembler
+1	Deanna Troi Durango
 1	Geordi La Forge Battleship Engineer
 1	E.M.H. Program
 1	E.M.H. Program
 1	Orfil Quinteros
 1	Orfil Quinteros
-1	Jake Sisko Temporal Anchor
 1	Barron
 1	Barron
 1	Daniel Kwan
@@ -16,7 +18,6 @@
 1	Davies
 1	Davies
 1	Davies
-1	Deanna Troi Guide and Conscience
 1	Martin
 1	Rixx
 1	Rixx
@@ -24,36 +25,35 @@
 1	T'Lara
 1	T'Lara
 1	Van Orton
+1	U.S.S. Enterprise-D Diplomatic Envoy
 1	U.S.S. Excelsior
 1	U.S.S. Excelsior
 1	U.S.S. Sovereign
-1	U.S.S. Sovereign
-1	Exocomp
 1	Unexpected Difficulties
 1	Always Welcome
-1	Delirium
-1	Old Feelings
+1	Escape
+1	Uninvited
 Dilemmas:
-1	Bio-neural Computer Core
-1	Breaking the Ice
-1	Curt Reprimand
-1	Causal Recursion
+1	Dark Page
 1	Dark Page
 1	Ferengi Locator Bomb
-1	Instigate Dissension
-1	Chula: Unfortunate Roll
-1	Full Complement
-1	In-Fighting
-1	He Wasn't Nice
+1	Mark of Gideon
+1	Honorable Pursuit
+1	Family
 1	Pillage and Plunder
-1	Show Trial
-1	Miner Revolt
-1	We'll Never Know
+1	Pillage and Plunder
+1	Setting the Stage
+1	Pitching In
 1	The First Duty
-1	Guess Who's Coming to Dinner?
-1	You Vant to Go Back?
+1	The First Duty
+1	One Step Ahead
+1	What Lies Beneath
+1	The Launching
+1	The Launching
+1	Agonizing Encounter
 1	Personal Duty
-1	The Caretaker's "Guests"
+1	The Clown: Bitter Medicine
+1	Timescape
 Missions:
 1	Avert Danger
 1	Earth Cradle of the Federation
