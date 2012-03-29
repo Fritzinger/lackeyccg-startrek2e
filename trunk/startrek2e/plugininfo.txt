@@ -189,17 +189,17 @@
 	<includeasbutton>yes</includeasbutton>
 </cardfunction>
 <cardfunction>
-	<label>Green +1</label>
+	<label>Black +1</label>
 	<kind>ADDCOUNTER</kind>
-	<color>green</color>
+	<color>black</color>
 	<PositionX>.95</PositionX>
 	<PositionY>.94</PositionY>
 	<includeasbutton>yes</includeasbutton>
 </cardfunction>
 <cardfunction>
-	<label>Green -1</label>
+	<label>Black -1</label>
 	<kind>REMOVECOUNTER</kind>
-	<color>green</color>
+	<color>black</color>
 	<includeasbutton>yes</includeasbutton>
 </cardfunction>
 <cardfunction>
