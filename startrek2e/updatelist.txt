@@ -1,11 +1,11 @@
-startrek2e	03-29-12
-plugins/startrek2e/version.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/version.txt	34249
+startrek2e	05-13-12
+plugins/startrek2e/version.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/version.txt	31297
 plugins/startrek2e/defaultchat.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/defaultchat.txt	25474
 plugins/startrek2e/uninstall.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/uninstall.txt	4784347
 plugins/startrek2e/plugininfo.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/plugininfo.txt	566248
 plugins/startrek2e/formats.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/formats.txt	21435
-plugins/startrek2e/sets/Virtual.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/Virtual.txt	15963085
-plugins/startrek2e/sets/Physical.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/Physical.txt	40787857
+plugins/startrek2e/sets/Virtual.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/Virtual.txt	15970884
+plugins/startrek2e/sets/Physical.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/Physical.txt	40795440
 plugins/startrek2e/av-st-back.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/av-st-back.jpg	5386
 plugins/startrek2e/av-st-data1.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/av-st-data1.jpg	2347
 plugins/startrek2e/av-st-data2.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/av-st-data2.jpg	4419
@@ -2595,5 +2595,13 @@ general/WYLB119.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startre
 general/WYLB120.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/WYLB120.jpg
 general/WYLB121a.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/WYLB121a.jpg
 general/WYLB122.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/WYLB122.jpg
+general/ST2E-EN05031a.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/ST2E-EN05031a.jpg
+general/STVE-EN17024a.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN17024a.jpg
+general/STVE-EN18021b.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN18021b.jpg
+general/STVE-EN24045a.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN24045a.jpg
+general/STVE-EN25025a.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN25025a.jpg
+general/STVP-EN049a.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVP-EN049a.jpg
+general/WYLB061a.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/WYLB061a.jpg
+general/st2e-en10027a.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/st2e-en10027a.jpg
 CardGeneralURLs:		
 http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/
