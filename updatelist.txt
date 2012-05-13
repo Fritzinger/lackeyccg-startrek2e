@@ -1,6 +1,5 @@
 startrek2e-beta	03-30-12
 plugins/startrek2e-beta/version.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/version.txt	32706
-plugins/startrek2e-beta/updatelist.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/updatelist.txt	31804030
 plugins/startrek2e-beta/defaultchat.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/defaultchat.txt	25474
 plugins/startrek2e-beta/uninstall.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/uninstall.txt	4784347
 plugins/startrek2e-beta/plugininfo.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/plugininfo.txt	566248
