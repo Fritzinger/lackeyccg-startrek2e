@@ -1,12 +1,12 @@
 startrek2e-beta	03-30-12
-plugins/startrek2e-beta/version.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/version.txt	35703
-plugins/startrek2e-beta/updatelist.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/updatelist.txt	31799999
+plugins/startrek2e-beta/version.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/version.txt	32706
+plugins/startrek2e-beta/updatelist.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/updatelist.txt	31804030
 plugins/startrek2e-beta/defaultchat.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/defaultchat.txt	25474
 plugins/startrek2e-beta/uninstall.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/uninstall.txt	4784347
 plugins/startrek2e-beta/plugininfo.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/plugininfo.txt	566248
 plugins/startrek2e-beta/formats.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/formats.txt	21435
-plugins/startrek2e-beta/sets/Virtual.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/sets/Virtual.txt	15963085
-plugins/startrek2e-beta/sets/Physical.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/sets/Physical.txt	40787857
+plugins/startrek2e-beta/sets/Virtual.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/sets/Virtual.txt	15970884
+plugins/startrek2e-beta/sets/Physical.txt	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/sets/Physical.txt	40795440
 plugins/startrek2e-beta/av-st-back.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/av-st-back.jpg	5386
 plugins/startrek2e-beta/av-st-data1.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/av-st-data1.jpg	2347
 plugins/startrek2e-beta/av-st-data2.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/av-st-data2.jpg	4419
