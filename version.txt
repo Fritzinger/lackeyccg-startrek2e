@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>120330</lastupdateYYMMDD>
+<lastupdateYYMMDD>12013</lastupdateYYMMDD>
 <versionurl>http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/version.txt</versionurl>
 <updateurl>http://lackeyccg-startrek2e.googlecode.com/svn/branches/startrek2e-beta/updatelist.txt</updateurl>
-<message>First stable release 1.0 for Lackey 2E - trekcc data merged with Lackey database.</message>
+<message>update 1.1 for Lackey 2E - May update integrated.</message>
 </version>
