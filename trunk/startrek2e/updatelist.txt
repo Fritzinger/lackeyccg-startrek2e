@@ -1,11 +1,11 @@
 startrek2e	05-13-12
-plugins/startrek2e/version.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/version.txt	31297
+plugins/startrek2e/version.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/version.txt	31021
 plugins/startrek2e/defaultchat.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/defaultchat.txt	25474
-plugins/startrek2e/uninstall.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/uninstall.txt	4784347
+plugins/startrek2e/uninstall.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/uninstall.txt	74094
 plugins/startrek2e/plugininfo.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/plugininfo.txt	566248
 plugins/startrek2e/formats.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/formats.txt	21435
-plugins/startrek2e/sets/Virtual.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/Virtual.txt	15970884
-plugins/startrek2e/sets/Physical.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/Physical.txt	40795440
+plugins/startrek2e/sets/Virtual.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/Virtual.txt	17700440
+plugins/startrek2e/sets/Physical.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/Physical.txt	40837970
 plugins/startrek2e/av-st-back.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/av-st-back.jpg	5386
 plugins/startrek2e/av-st-data1.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/av-st-data1.jpg	2347
 plugins/startrek2e/av-st-data2.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/av-st-data2.jpg	4419
@@ -2603,5 +2603,59 @@ general/STVE-EN25025a.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/s
 general/STVP-EN049a.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVP-EN049a.jpg
 general/WYLB061a.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/WYLB061a.jpg
 general/st2e-en10027a.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/st2e-en10027a.jpg
+general/STVE-EN26001	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26001.jpg
+general/STVE-EN26002	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26002.jpg
+general/STVE-EN26003	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26003.jpg
+general/STVE-EN26004	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26004.jpg
+general/STVE-EN26005	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26005.jpg
+general/STVE-EN26006	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26006.jpg
+general/STVE-EN26007	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26007.jpg
+general/STVE-EN26008	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26008.jpg
+general/STVE-EN26009	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26009.jpg
+general/STVE-EN26010	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26010.jpg
+general/STVE-EN26011	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26011.jpg
+general/STVE-EN26012	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26012.jpg
+general/STVE-EN26013	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26013.jpg
+general/STVE-EN26014	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26014.jpg
+general/STVE-EN26015	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26015.jpg
+general/STVE-EN26016	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26016.jpg
+general/STVE-EN26017	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26017.jpg
+general/STVE-EN26018	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26018.jpg
+general/STVE-EN26019	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26019.jpg
+general/STVE-EN26020	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26020.jpg
+general/STVE-EN26021	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26021.jpg
+general/STVE-EN26022	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26022.jpg
+general/STVE-EN26023	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26023.jpg
+general/STVE-EN26024	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26024.jpg
+general/STVE-EN26025	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26025.jpg
+general/STVE-EN26026	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26026.jpg
+general/STVE-EN26027	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26027.jpg
+general/STVE-EN26028	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26028.jpg
+general/STVE-EN26029	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26029.jpg
+general/STVE-EN26030	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26030.jpg
+general/STVE-EN26031	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26031.jpg
+general/STVE-EN26032	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26032.jpg
+general/STVE-EN26033	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26033.jpg
+general/STVE-EN26034	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26034.jpg
+general/STVE-EN26035	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26035.jpg
+general/STVE-EN26036	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26036.jpg
+general/STVE-EN26037	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26037.jpg
+general/STVE-EN26038	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26038.jpg
+general/STVE-EN26039	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26039.jpg
+general/STVE-EN26040	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26040.jpg
+general/STVE-EN26041	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26041.jpg
+general/STVE-EN26042	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26042.jpg
+general/STVE-EN26043	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26043.jpg
+general/STVE-EN26044	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26044.jpg
+general/STVE-EN26045	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26045.jpg
+general/STVE-EN26046	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26046.jpg
+general/STVE-EN26047	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26047.jpg
+general/STVE-EN26048	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26048.jpg
+general/STVE-EN26049	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26049.jpg
+general/STVE-EN26050	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26050.jpg
+general/STVE-EN26051	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26051.jpg
+general/STVE-EN26052	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26052.jpg
+general/STVE-EN26053	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26053.jpg
+general/STVE-EN26054	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/STVE-EN26054.jpg
 CardGeneralURLs:		
 http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/setimages/general/
