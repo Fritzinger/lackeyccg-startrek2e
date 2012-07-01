@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>120513</lastupdateYYMMDD>
+<lastupdateYYMMDD>120630</lastupdateYYMMDD>
 <versionurl>http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/version.txt</versionurl>
 <updateurl>http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/updatelist.txt</updateurl>
-<message>update 1.1 for Lackey 2E - May update integrated.</message>
+<message>update 1.2 for Lackey 2E - Lineage integrated.</message>
 </version>
