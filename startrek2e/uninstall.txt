@@ -1,15 +1,4 @@
 <uninstall>
-<dateYYMMDD>120630</dateYYMMDD>
-<removepath>sets/setimages/general/STVP-EN089.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN090.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN091.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN092.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN093.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN094.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN095.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN096.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN097.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN098.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN099.jpg</removepath>
-<removepath>sets/setimages/general/STVP-EN100.jpg</removepath>
+<dateYYMMDD>120921</dateYYMMDD>
+<removepath>sets/setimages/general/ST2E-EN0AP017.jpg</removepath>
 </uninstall>
