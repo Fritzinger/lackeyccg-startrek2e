@@ -1,4 +1,4 @@
 <uninstall>
-<dateYYMMDD>120921</dateYYMMDD>
-<removepath>sets/setimages/general/ST2E-EN0AP017.jpg</removepath>
+<dateYYMMDD>130108</dateYYMMDD>
+<removepath>sets/setimages/general/WYLB061a.jpg</removepath>
 </uninstall>
