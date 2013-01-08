@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>121212</lastupdateYYMMDD>
+<lastupdateYYMMDD>130108</lastupdateYYMMDD>
 <versionurl>http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/version.txt</versionurl>
 <updateurl>http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/updatelist.txt</updateurl>
-<message>update 1.31 for Lackey 2E - December errata and League Promo integrated.</message>
+<message>update 1.32 for Lackey 2E - Printable VPs (January 2013) integrated.</message>
 </version>
