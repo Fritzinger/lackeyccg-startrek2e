@@ -183,3 +183,15 @@ CHANGES
 
 CHANGES
 - February errata included
+
+
+------
+1.4 (02-24-13)
+(Nava)
+
+NEW
+- Matter of Time cards included
+
+CHANGES
+- Cart titles for the VP of Ezri Tigan Soldier of Fortune, U.S.S. Enterprise-A Chariot of "God" and Pendari Champion Electrifying Champion corrected by adding *VP
+- Name of Enrique Muñiz changed to Enrique Muniz to avoid LackeyCCG errors
