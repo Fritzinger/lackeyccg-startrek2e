@@ -202,3 +202,10 @@ CHANGES
 CHANGES
 - Cart titles for the VP of Ezri Tigan Soldier of Fortune, U.S.S. Enterprise-A Chariot of "God" and Pendari Champion Electrifying Champion corrected by adding *VP
 - Name of Enrique Muñiz changed to Enrique Muniz to avoid LackeyCCG errors
+
+------
+1.42 (07-04-13)
+(Nava)
+
+CHANGES
+- New printable Promos added

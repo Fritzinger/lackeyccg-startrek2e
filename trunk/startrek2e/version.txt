@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>130514</lastupdateYYMMDD>
+<lastupdateYYMMDD>130704</lastupdateYYMMDD>
 <versionurl>http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/version.txt</versionurl>
 <updateurl>http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/updatelist.txt</updateurl>
-<message>update 1.41 for startrek 2E, May errata included - Change log: http://code.google.com/p/lackeyccg-startrek2e/wiki/ChangeLog<</message>
+<message>update 1.42 for startrek 2E, July Update; Printable Promos included - Change log: http://code.google.com/p/lackeyccg-startrek2e/wiki/ChangeLog<</message>
 </version>
