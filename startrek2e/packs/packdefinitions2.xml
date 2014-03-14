@@ -886,7 +886,7 @@
 <crit><field>Name</field><eval>IS</eval><data>Rescue Prisoners of War</data></crit>
 </kind>
 <kind><qty>1</qty>
-<crit><field>Name</field><eval>IS</eval><data>Salvage Dominion Ship</data></crit>
+<crit><field>Name</field><eval>IS</eval><data>Torga IV Salvage Dominion Ship</data></crit>
 </kind>
 <kind><qty>1</qty>
 <crit><field>Name</field><eval>IS</eval><data>Sokath, His Eyes Uncovered!</data></crit>
