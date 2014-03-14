@@ -219,3 +219,12 @@ CHANGES
 - September errata included
 - Saavik Prot g e is now Saavik Protegee
 - Corrected numerous typing errors and other errors in game text
+
+1.6 (03-14-14)
+(Nava)
+
+CHANGES
+- Return to Grace included
+- March errata included
+- Hajur image corrected
+- The Paly's The Thing and Back Room Dealings (VP) included
