@@ -1075,7 +1075,7 @@ I.K.S. Vor'cha	SE	ST2E-EN01403	S	N	Y	1S403	Ship	5					Klingon		[Cmd][Stf][Stf][S
 T'Lani Munitions Ship	SE	ST2E-EN01406	C	N	Y	1C406	Ship	4					Non-Aligned		[Cmd][Stf]		A'norum Class			6	7	7	
 D'deridex	SE	ST2E-EN01408	S	N	Y	1S408	Ship	5					Romulan		[Cmd][Stf][Stf][Stf]	Cloaking Device. 	D'deridex Class			7	9	9	
 D'deridex Advanced	SE	ST2E-EN01409	U	N	Y	1U409	Ship	5					Romulan		[Cmd][Stf][Stf]	Cloaking Device. 	D'deridex Class			6	7	7	While your [Rom] Intelligence personnel is aboard this ship, this ship is attributes +2.
-Bat'leth	En	ST2E-EN02029	C	N	N	2C029	Equipment	0								Hand Weapon. 							When you win combat involving your Klingon present, the loser discards a random card from hand.
+Bat'leth	En	ST2E-EN02029ab	C	N	N	2C029	Equipment	0								Hand Weapon. 							To play this equipment, you must command a Klingon. When you win combat involving your Klingon present, the loser discards a random card from hand.
 Ak'voh	En	ST2E-EN02030	R	Y	N	2R030	Event	4															Plays in your core.  When a dilemma kills a personnel, his or her owner discards a card from hand.
 Ja'chuq	En	ST2E-EN02082	R	N	N	2R082	Interrupt	0															When you win combat or an engagement involving your [Kli] Leadership personnel, choose one of your missions. The player to your left places the top card of his or her dilemma pile face up beneath that mission (that dilemma is overcome). Remove this interrupt from the game.
 The Prophets' Guidance	En	ST2E-EN02089	C	N	N	2C089	Interrupt	0								Prophet. 							To play this interrupt, you must command two Vedeks.  Order - Take a [Baj] personnel from your discard pile into hand.
