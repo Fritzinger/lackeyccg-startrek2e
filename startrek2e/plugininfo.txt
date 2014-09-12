@@ -24,7 +24,7 @@
 </deckzone>
 <deckzone>
      <label>Aside</label>
-     <gamezonetoloadto>Crew 4</gamezonetoloadto>
+     <gamezonetoloadto>Aside</gamezonetoloadto>
      <shuffle>no</shuffle>
 </deckzone>
 <gamezone>
@@ -84,6 +84,11 @@
 </gamezone>
 <gamezone>
      <label>Crew 4</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Aside</label>
      <visibletoowner>yes</visibletoowner>
      <visibletoothers>no</visibletoothers>
 </gamezone>

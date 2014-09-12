@@ -1,11 +1,11 @@
-startrek2e	04-23-14
-plugins/startrek2e/version.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/version.txt	40912
+startrek2e	09-12-14
+plugins/startrek2e/version.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/version.txt	41427
 plugins/startrek2e/defaultchat.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/defaultchat.txt	25474
-plugins/startrek2e/uninstall.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/uninstall.txt	22317
-plugins/startrek2e/plugininfo.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/plugininfo.txt	566248
+plugins/startrek2e/uninstall.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/uninstall.txt	10493
+plugins/startrek2e/plugininfo.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/plugininfo.txt	578009
 plugins/startrek2e/formats.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/formats.txt	21435
-plugins/startrek2e/changelog.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/changelog.txt	397322
-plugins/startrek2e/sets/Virtual.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/Virtual.txt	22847594
+plugins/startrek2e/changelog.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/changelog.txt	409522
+plugins/startrek2e/sets/Virtual.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/Virtual.txt	24285455
 plugins/startrek2e/sets/Physical.txt	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/sets/Physical.txt	40866100
 plugins/startrek2e/av-st-back.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/av-st-back.jpg	5386
 plugins/startrek2e/av-st-data1.jpg	http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/av-st-data1.jpg	2347
