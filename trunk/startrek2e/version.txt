@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>140314</lastupdateYYMMDD>
+<lastupdateYYMMDD>140912</lastupdateYYMMDD>
 <versionurl>http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/version.txt</versionurl>
 <updateurl>http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/updatelist.txt</updateurl>
-<message>update 1.6 for startrek 2E, Release for Return to Grace; March errata included- Change log: http://code.google.com/p/lackeyccg-startrek2e/wiki/ChangeLog<</message>
+<message>update 1.7 for startrek 2E, Release of Balance of Terror; September errata included- Change log: http://code.google.com/p/lackeyccg-startrek2e/wiki/ChangeLog<</message>
 </version>

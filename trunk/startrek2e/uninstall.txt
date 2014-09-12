@@ -1,6 +1,4 @@
 <uninstall>
-<dateYYMMDD>140314</dateYYMMDD>
-<removepath>sets/setimages/general/STVP-EN124.jpg</removepath>
-<removepath>sets/setimages/general/ST2E-EN01194ab.jpg</removepath>
-<removepath>sets/setimages/general/STVE-EN17081.jpg</removepath>
+<dateYYMMDD>140912</dateYYMMDD>
+<removepath>sets/setimages/general/STVE-EN22023.jpg</removepath>
 </uninstall>
