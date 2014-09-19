@@ -59,4 +59,4 @@ Missions:
 1	Protect the Escapees
 1	Brute Force
 1	Qo'noS Heart of the Empire
-1	Rescue Prisoners
+1	Cardassia IV Rescue Prisoners

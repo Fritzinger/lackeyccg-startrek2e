@@ -252,3 +252,11 @@ CHANGES
 - September errata included
 - Added keywords on RtG cards
 - Added mission VP 127-140
+
+------
+1.71 (09-19-14)
+(Nava)
+
+CHANGES
+- Updated Virtual Starters
+- Corrected some spelling errors

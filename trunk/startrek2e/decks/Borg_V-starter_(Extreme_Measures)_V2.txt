@@ -2,6 +2,7 @@
 1	Two of Two Adaptation Drone
 1	Scrutiny Drone
 1	Scrutiny Drone
+1	Defragmentation Drone
 1	Examination Drone
 1	Examination Drone
 1	Facilitation Drone
@@ -18,7 +19,6 @@
 1	Evaluation Drone
 1	Invasive Drone
 1	Invasive Drone
-1	Locutus Voice of the Borg
 1	Opposition Drone
 1	Opposition Drone
 1	Reclamation Drone
@@ -55,8 +55,8 @@ Dilemmas:
 1	The Clown: Bitter Medicine
 1	Timescape
 Missions:
+1	Unicomplex Root of the Hive Mind
 1	Assault on Species 8472
 1	Battle Reconnaissance
 1	Hunt Alien
 1	Salvage Borg Ship
-1	Unicomplex Root of the Hive Mind
