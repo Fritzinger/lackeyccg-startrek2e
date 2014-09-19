@@ -31,8 +31,8 @@
 1	Relentless Attacks
 1	Relentless Attacks
 1	Escape
-1	Uninvited
 1	Unexpected Difficulties
+1	Uninvited
 Dilemmas:
 1	Breaking the Ice
 1	Chula: The Precipice
@@ -55,8 +55,8 @@ Dilemmas:
 1	Personal Duty
 1	Timescape
 Missions:
-1	Locate Fuel Source
-1	Inversion Mystery
 1	Caretaker's Array
 1	Obtain Advanced Technology
 1	Assault on Species 8472
+1	Locate Fuel Source
+1	Inversion Mystery

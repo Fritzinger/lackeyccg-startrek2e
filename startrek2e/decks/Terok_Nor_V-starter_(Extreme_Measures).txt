@@ -54,7 +54,7 @@ Dilemmas:
 1	Personal Duty
 1	The Caretaker's "Guests"
 1	Timescape
-Missions
+Missions:
 1	Mouth of the Wormhole Terok Nor
 1	Restock Ketracel-White
 1	Acquire Illicit Explosives

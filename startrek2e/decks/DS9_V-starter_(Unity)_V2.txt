@@ -3,20 +3,20 @@
 1	Benjamin Sisko Vastly Outnumbered
 1	Chalan Aroya Accessible Restaurateur
 1	Julian Bashir Vastly Outnumbered
+1	Kasidy Yates Freighter Captain
 1	Melora Pazlar Independent Personality
 1	Miles O'Brien Vastly Outnumbered
 1	Jake Sisko Engineer's Apprentice
 1	George Primmin Starfleet Security
+1	Boq'ta
+1	Boq'ta
+1	Boq'ta
 1	Kira Nerys Colonel Kira
 1	Quark Little Green Man
 1	William Ross "Temporary" Ally
 1	Anneli
 1	Anneli
-1	Anneli
 1	Anara
-1	Anara
-1	Anara
-1	Jabara
 1	Jabara
 1	Jabara
 1	Hoya
@@ -26,20 +26,20 @@
 1	Inad
 1	Inad
 1	U.S.S. Centaur Patrolling Ship
-1	Bajoran Scout Vessel
-1	Bajoran Scout Vessel
+1	U.S.S. Centaur Patrolling Ship
+1	U.S.S. Defiant Repurposed Warship
 1	Emergency Transport Unit
 1	Under Siege
 1	Unexpected Difficulties
-1	Bustling with Activity
+1	Portent
 1	Uninvited
 Dilemmas:
 1	Breaking the Ice
+1	Infatuation
 1	Dark Page
 1	Dark Page
 1	Forced Into Labor
 1	Healing Hand
-1	Mark of Gideon
 1	Honorable Pursuit
 1	Pillage and Plunder
 1	Show Trial
@@ -55,8 +55,8 @@ Dilemmas:
 1	The Clown: Bitter Medicine
 1	Timescape
 Missions:
-1	Explore Extradimensional World
-1	Traverse Ion Storm
-1	Avert Danger
-1	Survey Star System
 1	Mouth of the Wormhole Deep Space 9
+1	Explore Extradimensional World
+1	Camping Trip
+1	Survey Star System
+1	Investigate Rumors

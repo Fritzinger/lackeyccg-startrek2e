@@ -55,8 +55,8 @@ Dilemmas:
 1	Timescape
 1	Timescape
 Missions:
+1	Earth Humanity's Home
 1	Secure Strategic Base
 1	Automated Repair Station
 1	Eliminate Sphere Network
-1	Earth Humanity's Home
-1	Find Lifeless World
+1	Ceti Alpha V Find Lifeless World

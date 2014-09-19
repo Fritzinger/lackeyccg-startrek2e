@@ -4,7 +4,6 @@
 1	Quark Lumba
 1	Grish
 1	Grish
-1	Grish
 1	Krem Unidentified Pirate
 1	Muk Unidentified Pirate
 1	Gaila Arms Dealer
@@ -13,6 +12,7 @@
 1	Marta Delusional Seductress
 1	Ajur Temporal Thief
 1	Boratus Temporal Thief
+1	Jadzia Dax Tongo Player
 1	Brunt Acting Grand Nagus
 1	Nilva Lascivious Chairman
 1	Uri'lash Silent Servant
@@ -30,11 +30,12 @@
 1	Exocomp
 1	Emergency Transport Unit
 1	Self-Sealing Stem Bolts
-1	Self-Sealing Stem Bolts
+1	Oo-mox
+1	Oo-mox
 1	Unexpected Difficulties
-1	Uninvited
 Dilemmas:
 1	Breaking the Ice
+1	Infatuation
 1	Dark Page
 1	Dark Page
 1	Forced Into Labor
@@ -42,7 +43,6 @@ Dilemmas:
 1	Repressed Message
 1	Healing Hand
 1	Polywater Intoxication
-1	Mark of Gideon
 1	Honorable Pursuit
 1	Family
 1	Pillage and Plunder
