@@ -260,3 +260,11 @@ CHANGES
 CHANGES
 - Updated Virtual Starters
 - Corrected some spelling errors
+
+1.8 (12-08-14)
+(Nava)
+
+NEW
+- Added 20th Anniversary Collection
+CHANGES
+- Included December Errata
