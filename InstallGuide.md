@@ -1,0 +1,30 @@
+# Install guide #
+
+## Introduction ##
+
+The plugin is available through the automatic update feature in Lackey, you only need to enter the URL to the updatescript, and it will automatically update the current plugin (if it is new enough, i.e. is named  startrek2e), or  download the plugin from scratch, if you don't have the pluin installed since before, or if it too old. You can skip to download all missing images if you like after you have re-started lackey after the initial update run, then lackey will fetch each card when you attempt to show them, but if you do want to download everything, you need to select "Download all missing card images" after lackey have been restarted (either you had an ok plugin before or not).
+
+Since Lackey adds some extra time, especially when downloading the entire plugin (and chosing to download all pictures), there is an option to download the plugin as a bundle, as before, and install it manually. The bundle includes the updatescript, so after this initial "manual" installation, it is possible to use the Auto Update feature, to check for new versions of the plugin, and if necessary, dowload the new files and/or card images.
+
+![http://lackeyccg-startrek2e.googlecode.com/svn/images/2Einstall.jpg](http://lackeyccg-startrek2e.googlecode.com/svn/images/2Einstall.jpg)
+
+## Here is the address you need: ##
+
+Update from URL:
+http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/updatelist.txt
+
+## Quick Install Guide ##
+
+  1. Open Lackey
+  1. Go to tab "Preferences"
+  1. Under "AutoUpdate", enter the address to "updatelist.txt" from above, where it says "Update from URL", and click the button to start update check and download.
+  1. Restart Lackey.
+  1. Go to "Preference" tab again, click on the button "Download all missing card images". (optional, if you want all pictures downloaded locally).
+  1. Wait until Lackey says "You are done looking for all missing card images" (which might take a few hours if you need to download everything).
+  1. Done!
+
+## Feedback ##
+If you have any questions, or if you cant get it to work, just ask me here, PM me, or send an email to: **nekrit.nava ( at ) gmail.com**.
+Also, improvement suggestions, missing cards, bugs, etc, just ask me, and I'll try to answer as soon as I can. For Lackey problems, visit http://www.lackeyccg.com/forum/
+
+Install Guide is a shameless copy from our startrek1e guide by scox ... Thanks scox!

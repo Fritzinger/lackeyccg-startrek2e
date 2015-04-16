@@ -1,0 +1,93 @@
+# Using Lackey with the startrek2e plugin #
+
+## Building your deck ##
+
+While you can access all cards in the Lackey Deckbuilder, constructing you deck may not be as comfortable as in the [TrekCC deckbuilder](http://www.trekcc.org/2e/decklists/index.php?mode=list).
+Your deckbuilder screen in Lackey is split into 4 parts: your deck in the upper right **(1)**, a searchbox in the lower left **(2)**, search results in the lower right **(3)** and a preview of a selected card in the upper left of your screen.
+
+![http://lackeyccg-startrek2e.googlecode.com/svn/images/2Edeckbuilder01.jpg](http://lackeyccg-startrek2e.googlecode.com/svn/images/2Edeckbuilder01.jpg)
+
+The Lackey deckbuilder lets you store cards only in 4 different parts of a deck **(4)**: `Deck` (draw deck) `Missions`, `Dilemmas` and `Aside` (per definition all cards not past of the other parts - this is more a deck part to cover future developments).
+
+To search for different cards you should use the search boxes **(3)** in the lower left: you can combine them (search for a romulan personnel with greed) and the searchboxes may use different logical operators (`is`, `is not`, `is >`, `contains`, `contains not` e.a.)
+
+You can sort the cards in your lists by clicking on the column header - n.b. universal cards in Lackey startrek2e are not denoted by a text symbol
+
+Simply drop the cards to the designated tab to add them to your deck. If you want to increase the number of a card in your deck, mark it and use the `+1`, `+3`, `+10` buttons.
+
+When finished you can give a deck an unique name (Lackey does NOT warn you if it overwrites a existing deck!) and click `Save the deck` **(4)**. With `Browse ...` or `Open recent` you can always retrieve your stored decks.
+
+There is a way to import a deck from the trekcc deckbuilder, alas at the moment slightly crooked - I'll post instructions soon...
+
+
+## Playing a game ##
+
+First of all you have to connect to the Lackey server - go to the tab `Server` and connect. If your version is outdated Lackey will inform you immediately and ask you to update. After a successful connect you can see all players on the server **(5)** and also the plugin they use. The Game List will list all running and setup games **(6)**; as Lackey is mostly used by Magic and YuGiOh! players, it may be wise to arrange a game before you connect - you won't find many players there otherwise.
+
+![http://lackeyccg-startrek2e.googlecode.com/svn/images/2Egamestart01.jpg](http://lackeyccg-startrek2e.googlecode.com/svn/images/2Egamestart01.jpg)
+
+When both players have connected with the server one of them has to host a game **(7)**; the name of the game and the used plugin will appear in the Games list. The other player can then join the game and you're off for play.
+
+### Setting up the game ###
+
+Switching to the game you'll find a playmat **(8)** and two virtual seats for you and your opponent **(9)**. If you have not done so, you should load your deck (go to `Deck Editor`, select your deck and click on `Load to you`).
+
+You'll find, that you have more "Zones" **(10)** in the game area than in the deck builder. You'll might need them later on but now you're ready to play. Lackey has a function for tossing a coin either type `/flip` in the chat area **(11)** or use the `Game` menu.
+
+![http://lackeyccg-startrek2e.googlecode.com/svn/images/2Egamestart02.jpg](http://lackeyccg-startrek2e.googlecode.com/svn/images/2Egamestart02.jpg)
+
+_Annoying fact:_ Lackey will not use a keyboard layout other than "QWERTY" (for any characters except letters and numbers that is) - no matter what you do and how you configure your computer. So don't be to astonished if your (european) opponent will type strange signs like `I don#t download` or `*I have no Astrometrics(`
+
+While seeding you can click on the missions tab to see all of your missions and seed accordingly. When choosing a card remember that a click on a card will select the topmost card, while holding down the left mouse button and dragging your mouse will select all cards in a stack.
+
+STCCG2e has a large spatial layout (not as big as 1e but still large compared to other games). So for most games it is wise to set the zoom to 75%-85%, simply to be able to overview all parts of the game. If you need to examine a card closely you can simply hoover your mouse over it.
+
+### Playing the game ###
+
+The easiest way to draw your initial hand is to type `/draw7` (or simply `/d7`) in the chat area **(11)**.
+
+Under no circumstances forget to either advance your phases and your turns AND/OR to save (`Game` menu or `/save`) **(12)**. Lackey has sometimes the habit to loose the connection and all cardplays since the last save will be lost. When advancing your phase/turn you'll automatically save the game in an AutoSave file.
+
+After a few turn quite a lot of cards will be on the virtual table **(13)**. To keep everything neatly arranged you can use the tabs on the right hand. The Crew 1- Crew 4 tabs should be empty as soon as the game starts. When staffing a ship move the personnel and equipment to an empty tab **(14)** and attach a note to the ship (right click menu on the ship). I have here "tap'd" the cards to rotate them 90° out of preference. For simplicity you could leave them untap'd there are always multiple ways to use this plugin.
+
+![http://lackeyccg-startrek2e.googlecode.com/svn/images/2Egameplay01.jpg](http://lackeyccg-startrek2e.googlecode.com/svn/images/2Egameplay01.jpg)
+
+You can use the same strategy when attempting missions - move all members of the Away team to one tab and announce that you'll attempt with `Crew 1` or whatever. One advantage of the use of tabs is, that you can make random selections from that tab or reveal teams to your opponent for opponents choice or to prove the requirements are met.
+
+Your opponent can look at all of your tabs by switching between players in the upper right corner (next to the players icon)**(15)**. For most tabs he will not be able to see what you have in there, but you can allow him a peek by using the buttons in the lower right corner (`Hidden to others/Shown to others`) **(16)**.
+Thus your opponent can easily make random selections (hidden) or view/select a card from your crew/away team (shown).
+
+![http://lackeyccg-startrek2e.googlecode.com/svn/images/2Egameplay02.jpg](http://lackeyccg-startrek2e.googlecode.com/svn/images/2Egameplay02.jpg)
+
+HHandling Dilemmas is different in Lackey than in real play; use the button `Draw Dilemmas` **(17)** to draw an appropriate number to your `Hand Dil` **(18)**. Switch to the tab `Hand_Dil`, select the dilemmas you want to use flip them and play them to the table. . The rest of the dilemmas can then be sent to the bottom of your dilemma pile with the button `Bottom of Dilemmas`. These dilemmas are stored then in the Tab `Bottom Dil.`. So when you run out of dilemmas to draw, you simply move all your dilemmas from the `Bottom Dil.` tab to the `Dilemmas` tab shuffle them and you are done.
+
+Now your opponent can encounter the selected dilemmas. When a dilemma is overcome you can use the button `Dilemmas done +1` **(17)** to set a marker at the mission (select the appropriate mission first). You can move the overcome dilemma under the mission so you can access them later.
+
+Lackey offers no possibility to download a card; like in real games you have to look through your Deck to find the card. Don't forget to shuffle afterwards..
+
+Lackey does not automatically add points. You'll have to enter points scored/lost yourself in the lefthand corner **(9)**.
+
+
+## Shortcuts in chat mode ##
+
+All commands start with a /. These are the most commonly used commands:
+  * `/clear` clear log.
+  * `/drawX` or `/dX` draw X cards (`/d` draws one card)
+  * `/flip` flip a coin
+  * `/rollX` or `/rX` roll an X sided dice (`/r` defaults to a six sided dice)
+  * `/save` save game
+  * `/load` load saved game
+
+## Random tips ##
+
+  * When you loose the connection simply reconnect; if only the non- hosting player looses the connection he can join the game again. It may be then necessary to either `Load saved game` or `Revert to Autosave` from the Main Menu.
+
+  * If the player who started the game or both players loose the connection you have to restart hosting. Log on to the server, and then the player who initially started the game should start hosting again. Afterwards the second player can join the game and you can load a previous saved game or an autosave.
+
+  * In the very unlikly case that you need a judge to look at your game you would add a seat; the judge can then log on and join your game to view the situation.
+
+  * If you use the same dilemma piles again and again you can copy them from a previous deck. Simply open the previous deck in the deckeditor and use the `Copy to clipboard` button. Open the deck you are working on, switch to the `Dilemmas:` and use the button `Paste`.
+
+  * To evaluate your deck simply play a solitaire game. Load the deck to you and simulate the first few turns - you'll see if your deck works or not...
+
+_This guide is a copy of my 1e guide; as soon as we go public, this guide will be enhanced..._
